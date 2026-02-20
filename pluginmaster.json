@@ -3,7 +3,7 @@
     "Author":  "konvarec",
     "Name":  "HuntVoidWatcher",
     "InternalName":  "HuntVoidWatcher",
-    "AssemblyVersion":  "0.3.24.0",
+    "AssemblyVersion":  "0.3.25.0",
     "Description":  "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
     "ApplicableVersion":  "any",
     "RepoUrl":  "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
@@ -20,10 +20,10 @@
     "LoadPriority":  0,
     "Punchline":  "Sync hunt watcher area presence to shared sheet.",
     "AcceptsFeedback":  true,
-    "IconUrl":  "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/HuntVoidWatcher/images/icon.png",
+    "IconUrl":  "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/HuntVoidWatcher/images/icon_64.png",
     "DownloadLinkInstall":  "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/latest.zip",
     "DownloadLinkUpdate":  "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/latest.zip",
     "DownloadLinkTesting":  "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/latest.zip",
-    "LastUpdate":  1771633940
+    "LastUpdate":  1771636616
 }
 ]
