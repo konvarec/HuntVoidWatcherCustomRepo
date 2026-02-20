@@ -1,7 +1,7 @@
 # HuntVoidWatcher Custom Plugin Repository
 
-Dalamud custom repo URL:
-https://cdn.jsdelivr.net/gh/konvarec/HuntVoidWatcherCustomRepo@main/pluginmaster.json
+Recommended Dalamud custom repo URL (official GitHub raw):
+https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/pluginmaster.json
 
-Distribution metadata revision:
-dist-2026.02.20.2
+If cache issues occur, use commit-pinned URL temporarily:
+https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/4b7d2df/pluginmaster.json
