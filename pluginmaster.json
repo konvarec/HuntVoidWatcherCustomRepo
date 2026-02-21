@@ -20,13 +20,13 @@
     "LoadPriority":  0,
     "Punchline":  "Sync hunt watcher area presence to shared sheet.",
     "AcceptsFeedback":  true,
-    "IconUrl":  "__ICON__",
+    "IconUrl":  "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/ac3b701/HuntVoidWatcher/images/icon_64.png",
     "ImageUrls":  [
-                      "__ICON__"
+                      "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/ac3b701/HuntVoidWatcher/images/icon_64.png"
                   ],
     "DownloadLinkInstall":  "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/latest.zip",
     "DownloadLinkUpdate":  "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/latest.zip",
     "DownloadLinkTesting":  "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/latest.zip",
-    "LastUpdate":  1771714394
+    "LastUpdate":  1771714395
 }
 ]
