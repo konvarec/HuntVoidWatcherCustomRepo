@@ -3,7 +3,7 @@
 Recommended Dalamud custom repo URL (official GitHub raw):
 https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/pluginmaster.json
 
-最新版：**0.6.3.9**（Dalamud API 15）。更新後は初回Discord認証が必要です。
+最新版：**0.6.3.10**（Dalamud API 15）。初回利用時はDiscord認証が必要です。
 
 [更新後の確認事項・変更点](RELEASE_NOTES.md)
 
